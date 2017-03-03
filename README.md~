@@ -1,0 +1,3 @@
+# JPEG Encoder: Minimalistic JPEG image 
+* Uses simple DCT basis.
+* Reconstructs images using JPEG algorithm
